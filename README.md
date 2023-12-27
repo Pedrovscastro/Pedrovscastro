@@ -1,3 +1,4 @@
 # <p align='center'><strong>Pedro de Castro</strong> 
 
-### I'm a brazilian law student passionated abou Data Analysis
+<p align='center'>Brazilian law student</p>
+<p align='center'>Passionated abou Data Analysis</p>
